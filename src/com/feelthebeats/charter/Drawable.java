@@ -1,7 +1,7 @@
 package com.feelthebeats.charter;
 
 /**
- * Matthew Commonis
+ * JSNexen
  * 5/8/12
  * 8:11 PM
  */
